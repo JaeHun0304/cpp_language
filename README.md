@@ -1,2 +1,2 @@
-# C-_Language
+# cpp_language
 Explore the C++ programming language.
